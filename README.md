@@ -1,3 +1,3 @@
 # counter_bloc
 
-A new Flutter project.
+A basic counter app using cubit and bloc
